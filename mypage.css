@@ -120,7 +120,7 @@ img {
   width: 50%;
 }
 
-@media screen and (min-width: 460px) {
+@media screen and (max-width: 420px) {
   #title {
     background-color: beige;
     color: black;
