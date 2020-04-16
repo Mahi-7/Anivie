@@ -15,6 +15,7 @@
 }
 
 .container-fluid {
+    background-image: url("http://rwrant.co.za/wp-content/uploads/2013/11/Movie-Montage.jpg")
   padding: 2% 5%;
 }
 
@@ -49,7 +50,6 @@ h3 {
 }
 
 img {
-  transform: scale(1.3,1.3);
   transform: rotate(-10deg);
 }
 
